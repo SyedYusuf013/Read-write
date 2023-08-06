@@ -1,0 +1,40 @@
+2022-10-12 21:44:55,087 INFO this is my first test code for log
+2022-10-12 21:44:55,453 INFO this is info for logger one 
+2022-10-12 21:44:55,454 DEBUG this is a debug for logger two 
+2022-10-12 21:44:55,454 INFO this is info for logger two 
+2022-10-12 21:45:02,224 INFO this is my first test code for log
+2022-10-12 21:45:02,915 INFO this is info for logger one 
+2022-10-12 21:45:02,916 DEBUG this is a debug for logger two 
+2022-10-12 21:45:02,916 INFO this is info for logger two 
+2022-10-12 21:45:08,885 INFO this is my first test code for log
+2022-10-12 21:45:09,339 INFO this is info for logger one 
+2022-10-12 21:45:09,340 DEBUG this is a debug for logger two 
+2022-10-12 21:45:09,341 INFO this is info for logger two 
+2022-10-12 22:37:15,410 INFO this is my first test code for log
+2022-10-12 22:37:15,413 INFO this is info for logger one 
+2022-10-12 22:37:15,413 DEBUG this is a debug for logger two 
+2022-10-12 22:37:15,413 INFO this is info for logger two 
+2022-10-13 21:24:34,648 root INFO this is my first test code for log
+2022-10-13 21:24:34,656 logger1.area1 INFO this is info for logger one 
+2022-10-13 21:24:34,656 logger2.area2 DEBUG this is a debug for logger two 
+2022-10-13 21:24:34,656 logger2.area2 INFO this is info for logger two 
+2022-10-13 21:28:23,694 root INFO this is my first test code for log
+2022-10-13 21:28:23,694 user1 INFO this is info for logger one 
+2022-10-13 21:28:23,694 user2 DEBUG this is a debug for logger two 
+2022-10-13 21:28:23,694 user2 INFO this is info for logger two 
+2022-10-15 18:43:32,841 root INFO this is my first test code for log
+2022-10-15 18:43:32,844 user1 INFO this is info for logger one 
+2022-10-15 18:43:32,845 user2 DEBUG this is a debug for logger two 
+2022-10-15 18:43:32,845 user2 INFO this is info for logger two 
+2022-10-15 18:54:09,011 root INFO this is my first test code for log
+2022-10-15 18:54:09,013 user1 INFO this is info for logger one 
+2022-10-15 18:54:09,013 user2 DEBUG this is a debug for logger two 
+2022-10-15 18:54:09,014 user2 INFO this is info for logger two 
+2022-10-15 18:54:44,898 root INFO this is my first test code for log
+2022-10-15 18:54:44,899 user1 INFO this is info for logger one 
+2022-10-15 18:54:44,900 user2 DEBUG this is a debug for logger two 
+2022-10-15 18:54:44,901 user2 INFO this is info for logger two 
+2022-10-15 18:54:49,040 root INFO this is my first test code for log
+2022-10-15 18:54:49,042 user1 INFO this is info for logger one 
+2022-10-15 18:54:49,043 user2 DEBUG this is a debug for logger two 
+2022-10-15 18:54:49,043 user2 INFO this is info for logger two 
